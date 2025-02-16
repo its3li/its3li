@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-svg.svg" alt="GitHub Banner" width="100%" style="border-radius: 10px;" />
+  <img src="banner-svg.svg" alt="GitHub Banner" width="100%" style="border-radius: 15px;" />
 </p>
 
 
