@@ -1,4 +1,7 @@
-<img src="banner-svg.svg" alt="GitHub Banner" width="100%" border-raduis:10px; />
+<p align="center">
+  <img src="banner-svg.svg" alt="GitHub Banner" width="100%" style="border-radius: 10px;" />
+</p>
+
 
 # Hi 👋, I'm Ali – Front-End Developer from Egypt  
 
