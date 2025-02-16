@@ -22,12 +22,8 @@ I’m also learning about **AI tools** and **prompt engineering** to explore how
 
 ---
 
-## 📊 GitHub Stats  
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=its3li&show_icons=true&theme=dark" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=its3li&show_icons=true&layout=compact&theme=dark" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=its3li&theme=dark" height="150" />
 </p>
 
 ---
