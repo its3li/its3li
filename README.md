@@ -1,4 +1,5 @@
-<img src="banner-svg.svg" alt="GitHub Banner" width="100%" />
+<img src="banner-svg.svg" alt="GitHub Banner" width="100%" border-raduis:10px; />
+
 # Hi 👋, I'm Ali – Front-End Developer from Egypt  
 
 I've been working as a web developer since 2022, building websites and applications that are **fast, user-friendly, and easy to maintain**.  
