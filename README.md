@@ -2,7 +2,7 @@
   <img src="banner.png" alt="GitHub Banner" width="100%" style="border-radius: 30px;" />
 </p>
 
-# Hi there, I'm Ali 👋 — Front-End Developer from Egypt 🇪🇬
+# Hi there, I'm Ali 👋 Front-End Developer from Egypt 🇪🇬
 
 Welcome to my corner of GitHub! Since 2022, I've been diving into web development, focusing on building websites and apps that are **fast, easy to use, and don't cause headaches to maintain**.
 
