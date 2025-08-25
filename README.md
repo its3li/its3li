@@ -25,7 +25,6 @@ Right now, a lot of my energy is going into **Orion - your digital partner**. It
 * **Custom Websites/Apps:** Building digital tools tailored to specific needs.
 * **Web Design:** Making things look good online.
 
-*(More on Orion coming soon!)*
 
 ---
 
