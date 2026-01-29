@@ -60,9 +60,9 @@ Right now, a lot of my energy is going into **Orion - your digital partner**. It
 
 ## 📊 My GitHub Stats
 
-<p align="center">
+
  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/brunobritodev)](https://git.io/awesome-stats-card)
-</p>
+
 
 ---
 
