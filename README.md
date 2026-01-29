@@ -59,11 +59,7 @@ Right now, a lot of my energy is going into **Orion - your digital partner**. It
 ---
 
 ## 📊 My GitHub Stats
-
-
- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/brunobritodev)](https://git.io/awesome-stats-card)
-
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Its3li?cardType=github&theme=github-dark&fontFamily=&preferLogin=true&Points.Commits=171&Points.ContributedToNotOwnerRepositories=100)](https://git.io/awesome-stats-card)
 ---
 
 ## 📫 Get in Touch!
