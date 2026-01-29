@@ -61,8 +61,7 @@ Right now, a lot of my energy is going into **Orion - your digital partner**. It
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=its3li&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Ali's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its3li&layout=compact&theme=dark&langs_count=8" alt="Ali's Top Languages" height="150"/>
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/brunobritodev)](https://git.io/awesome-stats-card)
 </p>
 
 ---
