@@ -96,11 +96,11 @@ I'm passionate about:
 
 <div align="center">
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Its3li?cardType=github&theme=github-dark&preferLogin=true)](https://git.io/awesome-github-stats-card) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its3li&layout=compact&theme=dark)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Its3li?cardType=github&theme=github-dark&preferLogin=true)](https://git.io/awesome-github-stats-card) 
 
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=its3li&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=its3li&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its3li&layout=compact&theme=dark)
 
 <br/>
 
