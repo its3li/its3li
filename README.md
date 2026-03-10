@@ -356,17 +356,18 @@ console.log(me.funFact());
 
 <div align="center">
 
-### 📊 GitHub Stats
+### 📊 [ SHARINGAN VISION — BATTLE STATS ]
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=its3li&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=its3li&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its3li&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=C9D1D9&langs_count=10" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=its3li&custom_title=📈+Contribution+Timeline&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FF6B6B&area_color=00D4AA&area=true&hide_border=true&title_color=00D4AA" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its3li&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=C9D1D9" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=its3li&theme=radical&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA&sideLabels=00D4AA" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=its3li&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9&ring_color=00D4AA&custom_title=⚔️+GitHub+Arsenal" />
 
 </div>
 
@@ -374,10 +375,98 @@ console.log(me.funFact());
 
 <div align="center">
 
-### 🌐 Connect With Me
+### 🏆 [ ACHIEVEMENTS UNLOCKED ]
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-its--ali.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://its-ali.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-its.3li.03@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:its.3li.03@gmail.com)
+<img src="https://github-profile-trophy.vercel.app/?username=its3li&theme=radical&no-frame=true&no-bg=true&column=7&title=MultiLanguage,Commits,Stars,Followers,Repositories,PullRequest,Issues&rank=SECRET,SSS,SS,S,AAA,AA,A" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌙 [ THE CRESCENT'S PATH — CONTRIBUTION ]
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/its3li/its3li/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/its3li/its3li/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/its3li/its3li/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 [ ESTABLISH CONNECTION — SOCIAL GRID ]
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://www.linkedin.com/in/its3li/">
+        <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=00D4AA" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="mailto:its.3li.03@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=00D4AA" alt="Gmail"/>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://discord.com/users/its3li">
+        <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=00D4AA" alt="Discord"/>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://twitter.com/its3li">
+        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=00D4AA" alt="X"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://instagram.com/its3li">
+        <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=00D4AA" alt="Instagram"/>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://its-ali.vercel.app/">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=00D4AA" alt="Portfolio"/>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://github.com/its3li">
+        <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=00D4AA" alt="GitHub"/>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://github.com/its3li?tab=followers">
+        <img src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=00D4AA" alt="Follow"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 [ WISDOM OF THE WAY ]
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=And%20whoever%20does%20an%20atom's%20weight%20of%20good%20will%20see%20it.&author=Quran%2099:7&border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎴 [ RANDOM DEV WISDOM ]
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=radical&qColor=00D4AA&aColor=00D4AA&bgColor=0D1117)
 
 </div>
 
