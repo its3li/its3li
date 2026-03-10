@@ -47,6 +47,11 @@ I'm passionate about:
 - Image analysis capabilities
 - Modern Arabic/English interface
 
+### ⚙️ Developer Tools
+**Token-Manger-Bot** — Automation tool for token management:
+- Simplifies token handling workflows
+- Built with JavaScript for efficiency
+
 ---
 
 ## 🛠️ Tech Stack
@@ -113,11 +118,12 @@ I'm passionate about:
 
 ## 🌟 Featured Projects
 
-| Project | Description | Tech Stack | Links |
+| Project | Description | Tech Stack | Stars |
 |---------|-------------|------------|-------|
-| **🥇 Arino** | My flagship project — [tell me what it does!] | Next.js, TypeScript, [tech] | [Repo](https://github.com/its3li/Arino-v2) |
-| **Aniro V3** | Islamic companion app (Quran, Prayer, Azkar) | Next.js, Capacitor, TypeScript | [Repo](https://github.com/its3li/Aniro-V3) |
-| **Salaf AI** | AI-powered Islamic knowledge search | Next.js, Genkit, Firebase | [Repo](https://github.com/its3li/Salaf-AI) |
+| **🥇 Arino** | My flagship project — [tell me what it does!] | Next.js, TypeScript | [Repo](https://github.com/its3li/Arino) |
+| **📱 Aniro** | Islamic companion app (Quran, Prayer, Azkar) | Next.js, Capacitor | [Repo](https://github.com/its3li/Aniro) |
+| **🤖 Salaf AI** | AI-powered Islamic knowledge search | Next.js, Genkit | [Repo](https://github.com/its3li/Salaf-AI) |
+| **⚙️ Token-Manger-Bot** | Token management automation tool | JavaScript | [Repo](https://github.com/its3li/Token-Manger-Bot) |
 
 ---
 
