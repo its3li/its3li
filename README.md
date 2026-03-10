@@ -96,7 +96,7 @@ I'm passionate about:
 
 <div align="center">
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Its3li?cardType=github&theme=github-dark&preferLogin=true)](https://git.io/awesome-github-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Its3li?cardType=github&theme=github-dark&preferLogin=true)](https://git.io/awesome-github-stats-card) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its3li&layout=compact&theme=dark)
 
 <br/>
 
@@ -104,7 +104,7 @@ I'm passionate about:
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its3li&layout=compact&theme=dark)
+
 
 </div>
 
