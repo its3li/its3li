@@ -66,8 +66,6 @@ Full-Stack Developer crafting web & mobile applications since 2022. Passionate a
 | **⚙️ Token-Manger-Bot** | Token management automation | JavaScript, Node.js | [Repo](https://github.com/its3li/Token-Manger-Bot) |
 | **🎨 Dreamator** | AI image generation app | React, TypeScript, Vite | [Live](https://dreamator-v5.vercel.app) • [Repo](https://github.com/its3li/Dreamator) |
 | **⚖️ Fatwa AI** | Islamic fatwa assistant | React, TypeScript | [Live](https://fatwah-ai.vercel.app) • [Repo](https://github.com/its3li/Fatwa-AI) |
-| **👤 My-Portiflio** | Personal portfolio website | React, TypeScript, Tailwind | [Repo](https://github.com/its3li/My-Portiflio.) |
-
 ---
 
 ## 📊 GitHub Stats
@@ -100,5 +98,6 @@ Full-Stack Developer crafting web & mobile applications since 2022. Passionate a
 **Made with ❤️ by [Ali](https://github.com/its3li)**
 
 *"And whoever does an atom's weight of good will see it"* — Quran 99:7
+*"فَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرٗا يَرَهُۥ"* - سورة الزلزلة 7 
 
 </div>
