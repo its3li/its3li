@@ -100,7 +100,7 @@ I'm passionate about:
 
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=its3li&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its3li&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=its3li&theme=dark)                ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its3li&layout=compact&theme=dark)
 
 <br/>
 
