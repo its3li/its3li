@@ -224,12 +224,42 @@ console.log(me.funFact());
   </tr>
 </table>
 
-### 🤖 AI & Tools
+### 🤖 Amaterasu — AI & Tools
 <table>
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=openai" width="48" height="48" alt="OpenAI" />
       <br>OpenAI
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=google" width="48" height="48" alt="Google AI" />
+      <br>Genkit
+    </td>
+  </tr>
+</table>
+
+### ☁️ Akatsuki Cloud — DevOps & Infrastructure
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
+      <br>GCP
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+      <br>Kubernetes
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
@@ -239,13 +269,65 @@ console.log(me.funFact());
       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
       <br>GitHub
     </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+      <br>Bash
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
       <br>Vercel
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
+      <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
+      <br>Netlify
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="Actions" />
+      <br>Actions
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
+      <br>Terraform
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vim" width="48" height="48" alt="Vim" />
+      <br>Vim
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Tools & Workflow
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
+      <br>VSCode
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
+      <br>IntelliJ
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
+      <br>Notion
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord" />
+      <br>Discord
     </td>
   </tr>
 </table>
