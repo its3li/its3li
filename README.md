@@ -35,16 +35,17 @@ I'm passionate about:
 - **100% offline capability**
 - Built with **Next.js + Capacitor** for native Android
 
-### 🌐 Web Applications
-**Salaf AI** — AI-powered Islamic knowledge platform:
+### 🌐 Flagship Web Platform
+**Arino** — My best & most ambitious project:
+- [Description placeholder - tell me what Arino does!]
+- Built with modern tech stack
+- [Add key features here]
+
+### 🤖 AI-Powered Platform
+**Salaf AI** — Islamic knowledge search engine:
 - Intelligent search through authentic sources
 - Image analysis capabilities
 - Modern Arabic/English interface
-
-### 🎓 Educational Platform
-**Orion** — Your digital learning partner:
-- Web development courses
-- Custom tools & resources for developers
 
 ---
 
@@ -114,6 +115,7 @@ I'm passionate about:
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
+| **🥇 Arino** | My flagship project — [tell me what it does!] | Next.js, TypeScript, [tech] | [Repo](https://github.com/its3li/Arino-v2) |
 | **Aniro V3** | Islamic companion app (Quran, Prayer, Azkar) | Next.js, Capacitor, TypeScript | [Repo](https://github.com/its3li/Aniro-V3) |
 | **Salaf AI** | AI-powered Islamic knowledge search | Next.js, Genkit, Firebase | [Repo](https://github.com/its3li/Salaf-AI) |
 
@@ -121,7 +123,8 @@ I'm passionate about:
 
 ## 📈 Currently Focusing On
 
-- 🚀 **Scaling Aniro** — Adding iOS support & cloud sync
+- 🚀 **Building Arino** — My flagship project (tell me what it does!)
+- 📱 **Scaling Aniro** — Adding iOS support & cloud sync
 - 🤖 **AI Integration** — Building smarter features with Genkit
 - 🌍 **Open Source** — Contributing to the dev community
 - 📚 **Learning** — Exploring backend patterns & system design
