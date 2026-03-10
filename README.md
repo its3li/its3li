@@ -59,9 +59,9 @@ Full-Stack Developer crafting web & mobile applications since 2022. Passionate a
 |---------|-------------|------------|-------|
 | **🥇 Arino** | Digital Agency Platform | React, TypeScript, Vite | [Live](https://arino-v2.vercel.app) • [Repo](https://github.com/its3li/Arino) |
 | **📱 Aniro** | Islamic companion app (Quran, Prayer, Azkar) | Next.js, Capacitor, Android | [Live](https://aniro-v3.vercel.app) • [Repo](https://github.com/its3li/Aniro) |
-| **🤖 Salaf AI** | AI-powered Islamic knowledge search | Next.js, Genkit, Firebase | [Live](https://salaf-ai.vercel.app) • [Repo](https://github.com/its3li/Salaf-AI) |
+| **🤖 Salaf AI** | AI-powered Islamic knowledge AI | Next.js, Genkit, Firebase | [Live](https://salaf-ai.vercel.app) • [Repo](https://github.com/its3li/Salaf-AI) |
 | **🌙 AniroLandingpage** | Promotional website for Aniro | HTML, CSS, JS | [Live](https://aniro.vercel.app) • [Repo](https://github.com/its3li/AniroLandingpage) |
-| **💬 Irshad AI** | Islamic advice Telegram bot | TypeScript, Node.js | [Live](https://irshad-ai.vercel.app) • [Repo](https://github.com/its3li/Irshad-AI) |
+| **💬 Irshad AI** | Islamic advice AI bot | TypeScript, Node.js | [Live](https://irshad-ai.vercel.app) • [Repo](https://github.com/its3li/Irshad-AI) |
 | **🕌 minbar-aljumua** | Friday sermons platform | React, TypeScript, Supabase | [Live](https://minbar-aljumua.vercel.app) • [Repo](https://github.com/its3li/minbar-aljumua) |
 | **⚙️ Token-Manger-Bot** | Token management automation | JavaScript, Node.js | [Repo](https://github.com/its3li/Token-Manger-Bot) |
 | **🎨 Dreamator** | AI image generation app | React, TypeScript, Vite | [Live](https://dreamator-v5.vercel.app) • [Repo](https://github.com/its3li/Dreamator) |
