@@ -472,12 +472,28 @@ console.log(me.funFact());
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&animation=twinkling" />
+
 <div align="center">
 
+╔════════════════════════════════════════════════════════════════════════╗
+║                                                                        ║
+║   "And whoever does an atom's weight of good will see it"             ║
+║                                                      — Quran 99:7     ║
+║                                                                        ║
+║   [ THANKS FOR VISITING MY DOMAIN ]                                   ║
+║                                                                        ║
+║   May your code compile on the first try and your bugs                ║
+║   be as rare as a peaceful night in Cairo 🌙                          ║
+║                                                                        ║
+╚════════════════════════════════════════════════════════════════════════╝
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+### ⭐️ Star some repos if they caught your eye! ⭐️
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
 **Built with ❤️ and ☕ from Egypt 🇪🇬**
-
-*"And whoever does an atom's weight of good will see it"* — Quran 99:7
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer)
 
 </div>
