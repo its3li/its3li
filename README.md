@@ -98,6 +98,7 @@ Full-Stack Developer crafting web & mobile applications since 2022. Passionate a
 **Made with ❤️ by [Ali](https://github.com/its3li)**
 
 *"And whoever does an atom's weight of good will see it"* — Quran 99:7
+
 *"فَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرٗا يَرَهُۥ"* - سورة الزلزلة 7 
 
 </div>
