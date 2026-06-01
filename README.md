@@ -6,32 +6,40 @@
 
 Full-stack developer and bug hunter from Egypt.
 
-I build web apps, mobile apps, and AI-powered tools. Most of my work is around TypeScript, Next.js, React, Tailwind CSS, Capacitor, Firebase, Supabase, Python, and security-minded web development.
+I build small, useful products and study how real web apps break. My repos usually sit around TypeScript apps, mobile wrappers, AI workflows, Arabic and Islamic software, and security practice.
 
-Currently focused on shipping useful products, improving my security skills, and building clean interfaces that do not feel over-engineered.
+```txt
+build surface    web apps, mobile apps, AI tools, desktop utilities
+security surface auth, APIs, access control, client-side assumptions
+taste            clear interfaces, boring infrastructure, practical scope
+```
 
-## Work
+## Current Work
 
-| Project | What it is | Stack | Links |
+| Project | Why it exists | Part I care about | Links |
 |---|---|---|---|
-| **Aniro** | Islamic companion app with Quran, prayer times, azkar, and mobile support | Next.js, TypeScript, Capacitor | [Live](https://aniro.vercel.app) / [Repo](https://github.com/its3li/Aniro) |
-| **Salaf AI** | AI research and search tool for Islamic knowledge | Next.js, Genkit, Firebase | [Live](https://salaf-ai.vercel.app) / [Repo](https://github.com/its3li/Salaf-AI) |
-| **Imagio** | AI image generation app | React, TypeScript, Vite | [Live](https://imagio-ai.vercel.app) / [Repo](https://github.com/its3li/Imagio) |
-| **PollenScribe** | Lightweight Windows dictation app with global hotkey recording and AI transcription | Python | [Repo](https://github.com/its3li/PollenScripe) |
+| **Aniro** | A daily Islamic companion for Quran, prayer times, azkar, and mobile use | Offline-first UX, Arabic content, mobile packaging | [Live](https://aniro.vercel.app) / [Repo](https://github.com/its3li/Aniro) |
+| **Salaf AI** | A focused research/search tool for Islamic knowledge | Retrieval, source boundaries, controlled answers | [Live](https://salaf-ai.vercel.app) / [Repo](https://github.com/its3li/Salaf-AI) |
+| **Imagio** | A clean interface for AI image generation | Prompt flow, result handling, fast product UI | [Live](https://imagio-ai.vercel.app) / [Repo](https://github.com/its3li/Imagio) |
+| **PollenScribe** | Press a hotkey, speak, and paste the transcription into the active window | Desktop automation: hotkey to audio to transcript to paste | [Repo](https://github.com/its3li/PollenScripe) |
 
-## Stack
+## Bug Hunting Notes
+
+When I test an app, I usually start around the edges where products trust the user too much:
+
+- broken access control and IDORs
+- auth, session, and password reset flows
+- APIs that accept client-side state as truth
+- file upload and content parsing behavior
+- strange states after retries, refreshes, and failed requests
+
+## Toolbelt
 
 `TypeScript` `React` `Next.js` `Tailwind CSS` `Node.js` `Python` `Firebase` `Supabase` `Capacitor` `Vercel`
 
-## Security
+## Signal
 
-I am interested in web security, bug hunting, authentication flows, API behavior, and finding practical issues in real applications.
-
-## GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its3li&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</p>
+This profile is project-first: what shipped, what broke, and what I learned. I keep stats cards out because repos say more when they explain their decisions.
 
 ## Links
 
