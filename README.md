@@ -23,15 +23,6 @@ taste            clear interfaces, boring infrastructure, practical scope
 | **Imagio** | A clean interface for AI image generation | Prompt flow, result handling, fast product UI | [Live](https://imagio-ai.vercel.app) / [Repo](https://github.com/its3li/Imagio) |
 | **PollenScribe** | Press a hotkey, speak, and paste the transcription into the active window | Desktop automation: hotkey to audio to transcript to paste | [Repo](https://github.com/its3li/PollenScripe) |
 
-## Bug Hunting Notes
-
-When I test an app, I usually start around the edges where products trust the user too much:
-
-- broken access control and IDORs
-- auth, session, and password reset flows
-- APIs that accept client-side state as truth
-- file upload and content parsing behavior
-- strange states after retries, refreshes, and failed requests
 
 ## Toolbelt
 
