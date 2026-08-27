@@ -8,11 +8,6 @@ Full-stack developer and bug hunter from Egypt.
 
 I build small, useful products and study how real web apps break. My repos usually sit around TypeScript apps, mobile wrappers, AI workflows, Arabic and Islamic software, and security practice.
 
-```txt
-build surface    web apps, mobile apps, AI tools, desktop utilities
-security surface auth, APIs, access control, client-side assumptions
-taste            clear interfaces, boring infrastructure, practical scope
-```
 
 ## Current Work
 
