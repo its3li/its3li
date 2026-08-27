@@ -20,7 +20,7 @@ taste            clear interfaces, boring infrastructure, practical scope
 |---|---|---|---|
 | **Aniro** | A daily Islamic companion for Quran, prayer times, azkar, and mobile use | Offline-first UX, Arabic content, mobile packaging | [Live](https://aniro.vercel.app) / [Repo](https://github.com/its3li/Aniro) |
 | **Salaf AI** | A focused research/search tool for Islamic knowledge | Retrieval, source boundaries, controlled answers | [Live](https://salaf-ai.vercel.app) / [Repo](https://github.com/its3li/Salaf-AI) |
-| **Imagio** | A clean interface for AI image generation | Prompt flow, result handling, fast product UI | [Live](https://imagio-ai.vercel.app) / [Repo](https://github.com/its3li/Imagio) |
+| **GlideAPI** | An OpenAI-compatible gateway for accessing multiple AI models through one API | Unified API keys, model routing, usage metering, and billing controls | [Live](https://glideapi.dev) |
 | **PollenScribe** | Press a hotkey, speak, and paste the transcription into the active window | Desktop automation: hotkey to audio to transcript to paste | [Repo](https://github.com/its3li/PollenScripe) |
 
 
