@@ -28,7 +28,5 @@ I build small, useful products and study how real web apps break. My repos usual
 This profile is project-first: what shipped, what broke, and what I learned. I keep stats cards out because repos say more when they explain their decisions.
 
 ## Links
-
-- Portfolio: [its-ali.vercel.app](https://its-ali.vercel.app)
 - LinkedIn: [linkedin.com/in/its3li](https://linkedin.com/in/its3li)
 - Email: [its.3li.03@gmail.com](mailto:its.3li.03@gmail.com)
