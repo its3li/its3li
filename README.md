@@ -1,4 +1,4 @@
-<img src="banner.png" alt="its3li" width="100%" />
+<img src="banner.svg" alt="its3li / علي" width="100%" />
 
 I'm Ali, a 17-year-old developer from Egypt. I ship full-stack apps, break web apps for fun, and build open tools for the Arabic and Muslim community.
 
